@@ -3,4 +3,4 @@
 ## CER derives from...
 ## ・Combining several PDF files
 ## ・Extracting text from image or PDF
-## ・Reminding you a task
+## ・Reminding you of a task
