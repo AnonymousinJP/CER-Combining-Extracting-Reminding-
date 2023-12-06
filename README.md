@@ -1,6 +1,6 @@
 # CER-Combining-Extracting-Reminding-
 
-## CER derives from...
+## CER derives from 3 features...
 ### ・Combining several PDF files
 ### ・Extracting text from image or PDF
 ### ・Reminding you of a task
