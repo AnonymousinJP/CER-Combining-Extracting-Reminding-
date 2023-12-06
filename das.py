@@ -4,9 +4,6 @@ import glob,pyocr,pdfminer,schedule,time #エラーではない
 from pdfminer.high_level import extract_text
 from PIL import Image
 
-#指定時間に指定のurlを開きたい
-#分岐でurlの有無を判定
-
 sp='>>>'
 ch_,lang_=sp+"choose ",sp+"言語を選択："
 def end():print("quit")
