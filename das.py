@@ -1,6 +1,6 @@
 import PyPDF2 as pdf2
 import tkinter as tk
-import glob,pyocr,pdfminer,schedule,time #エラーではない
+import glob,pyocr,pdfminer,schedule,time
 from pdfminer.high_level import extract_text
 from PIL import Image
 
